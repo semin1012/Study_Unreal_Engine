@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\00.project\\00.StudyUnreal\\1.Server\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
-		"E:\\00.project\\00.StudyUnreal\\1.Server\\MyProject\\Source\\MyProject.Target.cs",
-		"E:\\00.project\\00.StudyUnreal\\1.Server\\MyProject\\Source\\MyProjectEditor.Target.cs"
+		"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\MyProject\\Source\\MyProject.Target.cs",
+		"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\MyProject\\Source\\MyProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }

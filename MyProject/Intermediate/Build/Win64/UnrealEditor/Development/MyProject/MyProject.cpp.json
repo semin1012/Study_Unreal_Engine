@@ -1,12 +1,12 @@
 {
-    "Version": "1.1",
+    "Version": "1.2",
     "Data": {
-        "Source": "e:\\00.project\\00.studyunreal\\1.server\\myproject\\source\\myproject\\myproject.cpp",
+        "Source": "d:\\00.project\\00.study\\study_unreal_engine\\myproject\\source\\myproject\\myproject.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\00.project\\00.studyunreal\\1.server\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "d:\\00.project\\00.study\\study_unreal_engine\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "e:\\00.project\\00.studyunreal\\1.server\\myproject\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
-            "e:\\00.project\\00.studyunreal\\1.server\\myproject\\source\\myproject\\myproject.h"
+            "d:\\00.project\\00.study\\study_unreal_engine\\myproject\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "d:\\00.project\\00.study\\study_unreal_engine\\myproject\\source\\myproject\\myproject.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
