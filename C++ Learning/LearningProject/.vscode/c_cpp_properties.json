@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "LearningProjectEditor Editor Win64 Development (LearningProject)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\.vscode\\compileCommands_LearningProject.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

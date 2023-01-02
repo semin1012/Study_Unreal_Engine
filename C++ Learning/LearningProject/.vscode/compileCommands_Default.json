@@ -1,0 +1,27 @@
+[
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\Source\\LearningProject\\LearningProject.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\.vscode\\compileCommands_Default\\LearningProject.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\Source\\LearningProject\\LearningProject.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\.vscode\\compileCommands_Default\\LearningProject.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\Source\\LearningProject\\LearningProject.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\.vscode\\compileCommands_Default\\LearningProject.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\Source\\LearningProject\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\.vscode\\compileCommands_Default\\LearningProject.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\Source\\LearningProject\\MovingPlatform.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\LearningProject\\.vscode\\compileCommands_Default\\LearningProject.205.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
