@@ -1,0 +1,77 @@
+[
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\mistake.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\mistake.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\mistake.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\mistakeCharacter.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\mistakeCharacter.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\mistakeGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\mistakeGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\mistakeProjectile.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\mistakeProjectile.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\Mover.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\Mover.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\TP_PickUpComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\TP_PickUpComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\TP_WeaponComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake\\TP_WeaponComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\.vscode\\compileCommands_mistake\\mistake.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

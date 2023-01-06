@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-mistake.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\mistakeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\Grabber2.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\mistake.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\mistakeCharacter.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\mistakeGameMode.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\mistakeProjectile.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\Mover.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\TP_PickUpComponent.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\TP_WeaponComponent.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\Grabber2.gen.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\mistake.init.gen.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\mistakeCharacter.gen.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\mistakeGameMode.gen.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\mistakeProjectile.gen.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\Mover.gen.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\TP_PickUpComponent.gen.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\TP_WeaponComponent.gen.cpp.obj"
+"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\Default.rc2.res"
+/OUT:"D:\00.Project\00.Study\Study_Unreal_Engine\C++ Learning\mistake\Intermediate\Build\Win64\UnrealEditor\Development\mistake\UnrealEditor-mistake.lib"

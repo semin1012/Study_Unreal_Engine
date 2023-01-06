@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "mistake",
+			"Path": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistake.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "mistakeEditor",
+			"Path": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\C++ Learning\\mistake\\Source\\mistakeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

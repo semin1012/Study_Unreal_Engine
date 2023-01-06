@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\00.project\\00.study\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\unrealeditor\\inc\\mistake\\grabber.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\00.project\\00.study\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\mistakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\00.project\\00.study\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\unrealeditor\\development\\mistake\\definitions.mistake.h",
+            "d:\\00.project\\00.study\\study_unreal_engine\\c++ learning\\mistake\\source\\mistake\\grabber.h",
+            "d:\\00.project\\00.study\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\unrealeditor\\inc\\mistake\\grabber.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
