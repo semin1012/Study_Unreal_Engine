@@ -11,6 +11,9 @@
     <None Include="..\..\Source\mistakeEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\mistake.code-workspace" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,9 +32,21 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
     <Filter Include="Source\mistake">
       <UniqueIdentifier>{4AFDC8A7-458A-3927-9389-B732500D408E}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\mistake\Grabber2.cpp">
+      <Filter>Source\mistake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\mistake\Grabber2.h">
+      <Filter>Source\mistake</Filter>
+    </ClInclude>
     <None Include="..\..\Source\mistake\mistake.Build.cs">
       <Filter>Source\mistake</Filter>
     </None>
@@ -75,6 +90,12 @@
       <Filter>Source\mistake</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\mistake\TP_WeaponComponent.h">
+      <Filter>Source\mistake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\mistake\TriggerComponent.cpp">
+      <Filter>Source\mistake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\mistake\TriggerComponent.h">
       <Filter>Source\mistake</Filter>
     </ClInclude>
   </ItemGroup>
