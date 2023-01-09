@@ -13,7 +13,6 @@
     </None>
     <None Include="..\..\.ignore" />
     <None Include="..\..\mistake.code-workspace" />
-    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>

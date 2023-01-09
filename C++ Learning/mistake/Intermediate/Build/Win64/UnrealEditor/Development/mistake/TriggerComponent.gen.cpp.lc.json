@@ -1,17 +1,19 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "d:\\00.project\\00.study\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\unrealeditor\\inc\\mistake\\triggercomponent.gen.cpp",
+        "Source": "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\unrealeditor\\inc\\mistake\\triggercomponent.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\00.project\\00.study\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\mistakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\mistakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "d:\\00.project\\00.study\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\unrealeditor\\development\\mistake\\definitions.mistake.h",
-            "d:\\00.project\\00.study\\study_unreal_engine\\c++ learning\\mistake\\source\\mistake\\triggercomponent.h",
+            "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\unrealeditor\\development\\mistake\\definitions.mistake.h",
+            "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\c++ learning\\mistake\\source\\mistake\\triggercomponent.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h",
-            "d:\\00.project\\00.study\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\unrealeditor\\inc\\mistake\\triggercomponent.generated.h"
+            "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\c++ learning\\mistake\\source\\mistake\\mover.h",
+            "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\unrealeditor\\inc\\mistake\\mover.generated.h",
+            "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\c++ learning\\mistake\\intermediate\\build\\win64\\unrealeditor\\inc\\mistake\\triggercomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
