@@ -28,7 +28,7 @@ public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
 	UFUNCTION(BlueprintCallable)
-		void SetMover(UMover* Mover);
+	void SetMover(UMover* Mover);
 
 private:
 	UPROPERTY(EditAnywhere)

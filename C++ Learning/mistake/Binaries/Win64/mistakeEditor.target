@@ -1,5 +1,5 @@
 {
-	"TargetName": "mistakeEditor", 
+	"TargetName": "mistakeEditor",
 	"Platform": "Win64",
 	"Configuration": "Development",
 	"TargetType": "Editor",

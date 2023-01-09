@@ -29,17 +29,18 @@ void UMover::BeginPlay()
 void UMover::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
+
+	FVector TargetLocation = OriginalLocation;
+
 	if ( ShouldMove ) 
 	{
-		FVector CurrentLocation = GetOwner()->GetActorLocation();
-		FVector TargetLocation = OriginalLocation + MoveOffset;
-
-		float speed = FVector::Distance(OriginalLocation, TargetLocation) / MoveTime;
-
-		FVector NewLocation = FMath::VInterpConstantTo(CurrentLocation, TargetLocation, DeltaTime, speed);
-
-		GetOwner()->SetActorLocation(NewLocation);
+		TargetLocation = OriginalLocation + MoveOffset;
 	}
+	FVector CurrentLocation = GetOwner()->GetActorLocation();
+	float speed = MoveOffset.Length() / MoveTime;
+
+	FVector NewLocation = FMath::VInterpConstantTo(CurrentLocation, TargetLocation, DeltaTime, speed); 
+	GetOwner()->SetActorLocation(NewLocation);
 }
 
 void UMover::SetShouldMove(bool NewShouldMove)
