@@ -5,6 +5,7 @@
 
 # User-specific files
 SimpleShooter/Windows/
+*.ucas
 
 *.rsuser
 *.suo
