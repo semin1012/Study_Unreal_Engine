@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\source\\simpleshooter\\simpleshootergamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\simpleshooter\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\unrealgame\\development\\simpleshooter\\definitions.simpleshooter.h",
+            "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\source\\simpleshooter\\simpleshootergamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\unrealgame\\inc\\simpleshooter\\simpleshootergamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

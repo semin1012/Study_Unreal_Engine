@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\unrealgame\\inc\\simpleshooter\\simpleshooter.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\simpleshooter\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\unrealgame\\development\\simpleshooter\\definitions.simpleshooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
