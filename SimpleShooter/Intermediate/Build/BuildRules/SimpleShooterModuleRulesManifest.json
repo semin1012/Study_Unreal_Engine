@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.Build.cs",
-		"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\SimpleShooter\\Source\\SimpleShooter.Target.cs",
-		"D:\\00.Project\\00.Study\\Study_Unreal_Engine\\SimpleShooter\\Source\\SimpleShooterEditor.Target.cs"
+		"E:\\00.project\\00.StudyUnreal\\1.Server\\Study_Unreal_Engine\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.Build.cs",
+		"E:\\00.project\\00.StudyUnreal\\1.Server\\Study_Unreal_Engine\\SimpleShooter\\Source\\SimpleShooter.Target.cs",
+		"E:\\00.project\\00.StudyUnreal\\1.Server\\Study_Unreal_Engine\\SimpleShooter\\Source\\SimpleShooterEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }

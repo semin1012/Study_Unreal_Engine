@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "SimpleShooter",
-			"Path": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\SimpleShooter\\Source\\SimpleShooter.Target.cs",
+			"Path": "E:\\00.project\\00.StudyUnreal\\1.Server\\Study_Unreal_Engine\\SimpleShooter\\Source\\SimpleShooter.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "SimpleShooterEditor",
-			"Path": "D:\\00.Project\\00.Study\\Study_Unreal_Engine\\SimpleShooter\\Source\\SimpleShooterEditor.Target.cs",
+			"Path": "E:\\00.project\\00.StudyUnreal\\1.Server\\Study_Unreal_Engine\\SimpleShooter\\Source\\SimpleShooterEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

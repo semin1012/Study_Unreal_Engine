@@ -22,11 +22,16 @@ protected:
 	virtual void BeginPlay() override;
 
 public:	
+	UFUNCTION(BlueprintPure)	// Pure - 블루프린트에서 실행핀이 없는 것
+	bool IsDead() const;
+
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+	virtual float TakeDamage(float Damage, FDamageEvent const& DamageEvent, AController* EventInstigator, AActor* DamageCauser) override;
 
 private:
 	void MoveForward(float AxisValue);
@@ -37,6 +42,12 @@ private:
 
 	UPROPERTY(EditAnywhere)
 	float RotationRate = 10.f;
+
+	UPROPERTY(EditDefaultsOnly)
+	float MaxHealth = 100;
+
+	UPROPERTY(VisibleAnywhere)
+	float Health;
 
 	UPROPERTY(EditDefaultsOnly)
 	TSubclassOf<AGun> GunClass;

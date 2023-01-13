@@ -1,19 +1,19 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\source\\simpleshooter\\shootercharacter2.cpp",
+        "Source": "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\simpleshooter\\source\\simpleshooter\\shootercharacter2.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\simpleshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\simpleshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\development\\simpleshooter\\definitions.simpleshooter.h",
-            "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\source\\simpleshooter\\shootercharacter2.h",
+            "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\development\\simpleshooter\\definitions.simpleshooter.h",
+            "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\simpleshooter\\source\\simpleshooter\\shootercharacter2.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
-            "d:\\00.project\\00.study\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\shootercharacter2.generated.h"
+            "e:\\00.project\\00.studyunreal\\1.server\\study_unreal_engine\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\shootercharacter2.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
