@@ -3,16 +3,21 @@
 
 #include "ShooterAIController.h"
 #include "kismet/GameplayStatics.h"
-
-void AShooterAIController::Tick(float DeltaSeconds)
-{
-	Super::Tick(DeltaSeconds);
-	if (AIBehavior != nullptr) {
-		RunBehaviorTree(AIBehavior);
-	}
-}
+#include "BehaviorTree/BlackboardComponent.h"
 
 void AShooterAIController::BeginPlay()
 {
 	Super::BeginPlay();
+
+	if (AIBehavior != nullptr) {
+		RunBehaviorTree(AIBehavior);
+
+
+		GetBlackboardComponent()->SetValueAsVector(TEXT("StartLocation"), GetPawn()->GetActorLocation());
+	}
+}
+
+void AShooterAIController::Tick(float DeltaSeconds)
+{
+	Super::Tick(DeltaSeconds);
 }

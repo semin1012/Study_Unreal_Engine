@@ -11,6 +11,7 @@
 /DELAY:UNLOAD
 /DLL
 /PDBALTPATH:%_PDB%
+/fastfail
 /OPT:NOREF
 /OPT:NOICF
 /INCREMENTAL:NO
@@ -19,7 +20,6 @@
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
 /LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\lib\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\lib\um\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -32,26 +32,31 @@
 /NODEFAULTLIB:"LIBCP"
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
-/FUNCTIONPADMIN
-"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterCharacter2.cpp.obj"
-"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\SimpleShooter.cpp.obj"
-"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\SimpleShooterGameModeBase.cpp.obj"
-"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Gun.cpp.obj"
-"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterAIController.cpp.obj"
-"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterCharacter.cpp.obj"
+/FUNCTIONPADMIN:6
+"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTTaskNode_Shoot.gen.cpp.obj"
+"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTTask_ClearBlackboardValue.gen.cpp.obj"
 "E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Gun.gen.cpp.obj"
 "E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterAIController.gen.cpp.obj"
 "E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterCharacter.gen.cpp.obj"
 "E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterCharacter2.gen.cpp.obj"
 "E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\SimpleShooter.init.gen.cpp.obj"
 "E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\SimpleShooterGameModeBase.gen.cpp.obj"
+"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Gun.cpp.obj"
+"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterCharacter.cpp.obj"
+"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterCharacter2.cpp.obj"
+"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\SimpleShooter.cpp.obj"
+"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\SimpleShooterGameModeBase.cpp.obj"
+"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTTaskNode_Shoot.cpp.obj"
+"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTTask_ClearBlackboardValue.cpp.obj"
+"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterAIController.cpp.obj"
 "E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\AIModule\UnrealEditor-AIModule.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\InputCore\UnrealEditor-InputCore.lib"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\GameplayTasks\UnrealEditor-GameplayTasks.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
