@@ -12,7 +12,7 @@ SimpleShooter/Windows/
 *.user
 *.userosscache
 *.sln.docstates
-*.vcxproj
+UE5.vcxproj
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
