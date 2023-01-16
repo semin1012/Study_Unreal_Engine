@@ -24,6 +24,9 @@ protected:
 public:	
 	UFUNCTION(BlueprintPure)	// Pure - 블루프린트에서 실행핀이 없는 것
 	bool IsDead() const;
+	
+	UFUNCTION(BlueprintPure)
+	float GetHealthPercent() const;
 
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;

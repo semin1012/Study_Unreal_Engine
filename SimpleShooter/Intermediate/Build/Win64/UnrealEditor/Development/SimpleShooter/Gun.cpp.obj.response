@@ -1,4 +1,4 @@
-E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Source\SimpleShooter\Gun.cpp
+D:\00.Project\00.Study\Study_Unreal_Engine\SimpleShooter\Source\SimpleShooter\Gun.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I Runtime
@@ -269,23 +269,23 @@ E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Source\S
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Inc\SimpleShooter\UHT
-/I E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Source
+/I D:\00.Project\00.Study\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Inc\SimpleShooter\UHT
+/I D:\00.Project\00.Study\Study_Unreal_Engine\SimpleShooter\Source
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Definitions.SimpleShooter.h"
-/Yu"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Gun.cpp.obj"
-/sourceDependencies E:\00.project\00.StudyUnreal\1.Server\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Gun.cpp.dep.json
+/FI"D:\00.Project\00.Study\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"D:\00.Project\00.Study\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Definitions.SimpleShooter.h"
+/Yu"D:\00.Project\00.Study\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"D:\00.Project\00.Study\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"D:\00.Project\00.Study\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Gun.cpp.obj"
+/sourceDependencies D:\00.Project\00.Study\Study_Unreal_Engine\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Gun.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

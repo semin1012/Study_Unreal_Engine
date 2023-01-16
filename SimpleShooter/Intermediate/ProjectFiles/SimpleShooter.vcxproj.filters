@@ -11,6 +11,7 @@
     <None Include="..\..\Source\SimpleShooterEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
     <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
@@ -88,6 +89,12 @@
       <Filter>Source\SimpleShooter</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SimpleShooter\ShooterCharacter2.h">
+      <Filter>Source\SimpleShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SimpleShooter\ShooterPlayerController.cpp">
+      <Filter>Source\SimpleShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SimpleShooter\ShooterPlayerController.h">
       <Filter>Source\SimpleShooter</Filter>
     </ClInclude>
     <None Include="..\..\Source\SimpleShooter\SimpleShooter.Build.cs">
